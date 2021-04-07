@@ -1,11 +1,11 @@
-## About me
-
 [![Blog](https://img.shields.io/badge/-atanasantonov.com-blue?style=flat&logo=WordPress&logoColor=white&link=https://atanasantonov.com/)](https://atanasantonov.com/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atanas-antonov-108/)](https://www.linkedin.com/in/atanas-antonov-108/)
 [![Repos](https://badges.pufler.dev/repos/atanasantonov)](https://badges.pufler.dev)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=atanasantonov.atanasantonov)
 
-Howdy, I'm Atanas! WordPress and PHP developer at [Unax](https://unax.org).
+## About me
+
+Howdy, I'm Atanas! WordPress developer at [Unax](https://unax.org).
 
 ## Profiles
 - WordPress.org: https://profiles.wordpress.org/nant82/
