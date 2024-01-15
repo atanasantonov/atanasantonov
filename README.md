@@ -5,11 +5,11 @@
 
 ## About me
 
-Howdy, I'm Atanas! WordPress developer at [Unax](https://unax.org).
+Howdy, I'm Atanas!
 
 ## Profiles
-- WordPress.org: https://profiles.wordpress.org/nant82/
 - Stack Overflow: https://stackoverflow.com/users/3868104/atanas-antonov
+- WordPress.org: https://profiles.wordpress.org/nant82/
 
 ## GitHub Stats
 
